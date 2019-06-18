@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/got-memory-game/static/css/main.edffa4f9.chunk.css",
+    "main.js": "/got-memory-game/static/js/main.907e16c9.chunk.js",
+    "main.js.map": "/got-memory-game/static/js/main.907e16c9.chunk.js.map",
+    "runtime~main.js": "/got-memory-game/static/js/runtime~main.f4c69331.js",
+    "runtime~main.js.map": "/got-memory-game/static/js/runtime~main.f4c69331.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/got-memory-game/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/got-memory-game/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/got-memory-game/index.html",
+    "precache-manifest.1286df492189fc66583a4fcc9edc5a44.js": "/got-memory-game/precache-manifest.1286df492189fc66583a4fcc9edc5a44.js",
+    "service-worker.js": "/got-memory-game/service-worker.js",
+    "static/css/main.edffa4f9.chunk.css.map": "/got-memory-game/static/css/main.edffa4f9.chunk.css.map"
+  }
+}
